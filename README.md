@@ -27,7 +27,7 @@
             <li>Javascipt</li> 
         </ul>
         </div>
-        <a href="https://ruchika17012001.github.io/Portfolio-Website/" target="_blank"><p><b>📌 View Landing Page</b></p></a>
+        <a href="https://ruchika17012001.github.io/Landing-Page/" target="_blank"><p><b>📌 View Landing Page</b></p></a>
         
 </body>
 </html>
